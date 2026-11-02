@@ -16,11 +16,11 @@ I'm interested in turning concrete needs into solutions that can be tested and m
 
 ## Software projects
 
-### [SUC — Unified Query System](https://github.com/JuanAresse/suc-portfolio)
+### [SUC — Unified Query System](https://github.com/JuanAresse/suc)
 
 An individual thesis project built with Python, FastAPI, and SQLite to integrate social services data from multiple sources, validate imports, and provide traceable queries and reports.
 
-### [Padilla Contratos](https://github.com/JuanAresse/padilla-contratos-portfolio)
+### [Padilla Contratos](https://github.com/JuanAresse/padilla-contratos)
 
 An application that digitizes information collection and contract document generation through forms, validation, and document processing.
 
