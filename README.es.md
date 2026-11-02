@@ -16,11 +16,11 @@ Me interesa transformar una necesidad concreta en una solución que pueda probar
 
 ## Proyectos de software
 
-### [SUC — Sistema Unificado de Consultas](https://github.com/JuanAresse/suc-portfolio)
+### [SUC — Sistema Unificado de Consultas](https://github.com/JuanAresse/suc)
 
 Tesis individual desarrollada con Python, FastAPI y SQLite para integrar información social de múltiples fuentes, validar importaciones y generar consultas y reportes trazables.
 
-### [Padilla Contratos](https://github.com/JuanAresse/padilla-contratos-portfolio)
+### [Padilla Contratos](https://github.com/JuanAresse/padilla-contratos)
 
 Aplicación para digitalizar la recopilación de información y la generación de documentación contractual, con formularios, validaciones y procesamiento documental.
 
